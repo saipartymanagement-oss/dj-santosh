@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DJ Santosh | Luxury Event DJ Texas</title>
+    <meta name="description" content="Luxury Wedding and Event DJ in Texas. Professional sound, lighting, and unforgettable energy. Book DJ Santosh today.">
+    <meta name="keywords" content="Texas Wedding DJ, Dallas DJ, Fort Worth DJ, Luxury Event DJ, Indian Wedding DJ Texas, Party DJ Dallas">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {font-family: Arial, sans-serif; margin:0; background:#000; color:#fff; text-align:center;}
+        header {padding:100px 20px; background:linear-gradient(to right,#111,#333);}
+        h1 {font-size:48px;}
+        p {font-size:20px;}
+        .btn {display:inline-block; margin:20px; padding:15px 30px; background:gold; color:#000; text-decoration:none; font-weight:bold;}
+        section {padding:60px 20px;}
+        footer {padding:20px; background:#111;}
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>DJ Santosh</h1>
+    <p>Luxury Sound. Unmatched Energy.</p>
+    <a href="#contact" class="btn">Book Now</a>
+</header>
+
+<section>
+    <h2>Premium Event Experience</h2>
+    <p>Serving Dallas, Fort Worth, Plano, Frisco, McKinney and surrounding Texas areas with professional DJ services for weddings, corporate events and private celebrations.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Call: 940-727-9767</p>
+    <p>Email: saipartymanagement@gmail.com</p>
+</section>
+
+<footer>
+    <p>© 2026 DJ Santosh | Luxury Event DJ Texas</p>
+</footer>
+
+</body>
+</html>
